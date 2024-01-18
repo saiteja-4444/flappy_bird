@@ -8,7 +8,7 @@
 - If the bird hits a pipe or falls to the ground, the game ends.
 - Points are scored for each successful pass through a pair of pipes.
 
-# 2. Installation
+# 2. Requirement
 - python version 3.5 or above
 
    `pip install pygame `
