@@ -1,4 +1,4 @@
-# FLAPPY BIRD USING PYTHON
+<h1>FLAPPY BIRD USING PYTHON</h1>
 
 # 1. Introduction
 
